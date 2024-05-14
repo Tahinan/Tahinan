@@ -9,7 +9,7 @@ Atualmete sou funcionário público e não trabalho com tecnologia. Busco uma op
 * **Graduado** em Sistemas de Informação - Universidade Federal de Alagoas.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tahinan-wilena/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahinan-wilena/)
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
